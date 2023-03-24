@@ -1,0 +1,7 @@
+The NLP model has been designed to perform various tasks such as text normalization,
+sentiment analysis, virtual assistant, and text summarization. Before deploying the model for
+any practical use, it is important to thoroughly test its performance on various datasets. This
+includes evaluating the accuracy, precision, recall, and F1-score of the model. The model
+should also be tested for its ability to handle various types of text data, such as social media
+posts, news articles, and scientific papers. By conducting thorough testing of the NLP model,
+we can ensure its reliability and usability in real-world applications.
